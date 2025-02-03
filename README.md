@@ -1,7 +1,7 @@
 # 📌 Action Detection Project  
 
 ## 🎯 Overview  
-This project focuses on **Action Detection** using deep learning techniques. It aims to identify and classify human actions from video sequences, making it useful for applications like **surveillance, sports analytics, and human-computer interaction**.  
+This project focuses on  **Action Detection** using deep learning techniques. It aims to identify and classify human actions from video sequences, making it useful for applications like **surveillance, sports analytics, and human-computer interaction**.  
 
 ## 🛠️ Features  
 ✔️ **Real-time action detection** using deep learning models  
