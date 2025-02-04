@@ -23,7 +23,7 @@ This project focuses on  **Action Detection** using deep learning techniques. It
  ┣ 📜 requirements.txt  # Dependencies  
  ┣ 📜 README.md         # Project documentation  
 ```
-
+.
 ## 🔧 Installation  
 1️⃣ **Clone the repository:**  
 ```bash
